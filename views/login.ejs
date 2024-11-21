@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- include('../views/partials/head'); -%>
+<body>
+    <%- include('../views/partials/header'); -%>
+
+    <main>
+        <div class="formulario">
+            <h1>INGRESAR</h1>
+            <form action="/login" method="POST" id="loginForm">
+                <h2>LOGIN</h2>
+                <div class="input">
+                    <input type="email" name="email" id="email" placeholder="Correo">
+                </div>
+
+                <div class="input">
+                    <input type="password" name="password" id="password" placeholder="Contraseña">
+                </div>
+
+                <div class="boton">
+                    <button type="submit">Ingresar</button>
+                </div>
+            </form>
+
+            <% if (typeof error !== 'undefined') { %>
+                <p style="color: red;"><%= error %></p>
+            <% } %>
+
+        </div>
+    </main>
+
+    <%- include('../views/partials/footer'); -%>
+
+    <script src="../javascripts/validationLogin.js"></script>
+</body>
+</html>

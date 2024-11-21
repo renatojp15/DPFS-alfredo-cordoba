@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- include('../views/partials/head'); -%>
+<body>
+    <%- include('../views/partials/header'); -%>
+
+    <main>
+        <div class="formulario">
+            <h1>CREA TU CUENTA</h1>
+            <form action="/register" method="POST" enctype="multipart/form-data" id="registerForm">
+                <h2>REGISTRO</h2>
+                <div class="input">
+                    <input type="text" name="firstName" id="firstName" placeholder="Nombre" required>
+                </div>
+
+                <div class="input">
+                    <input type="text" name="lastName" id="lastName" placeholder="Apellido" required>
+                </div>
+
+                <div class="input">
+                    <input type="email" name="email" id="email" placeholder="E-mail" required>
+                </div>
+
+                <div class="input">
+                    <input type="password" name="password" id="password" placeholder="Contraseña" required>
+                </div>
+
+                <select name="category" required>
+                    <option value="user">Usuario</option>
+                    <option value="admin">Administrador</option>
+                </select>
+
+                <div class="input">
+                    <input type="file" name="image" id="image" placeholder="Imagen" required>
+                </div>
+
+                <div class="botones">
+                    <button type="submit">Registrar</button>
+                    <button type="reset">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <%- include('../views/partials/footer'); -%>
+
+    <script src="../javascripts/validationRegister.js"></script>
+</body>
+</html>
