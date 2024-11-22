@@ -8,6 +8,7 @@ CREATE TABLE Usuarios (
     lastName VARCHAR(100) NOT NULL,
     email VARCHAR(255) NOT NULL UNIQUE,
     password VARCHAR(255) NOT NULL,
+    colors VARCHAR(255) NOT NULL,
     category ENUM('admin', 'user') DEFAULT 'user',
     image VARCHAR(255)
 );
