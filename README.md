@@ -7,3 +7,15 @@ Explora nuestro extenso catálogo, que abarca desde tecnología de vanguardia ha
 
 No te pierdas nuestras promociones exclusivas, descuentos y eventos especiales que te permitirán ahorrar aún más mientras disfrutas de productos de alta calidad. "HorizonMarket" está diseñada para ser tu destino preferido, donde encontrarás todo lo que necesitas, y un poco más. ¡Explora, descubre y compra con confianza en nuestra tienda en línea definitiva!
 
+## Sitios de referencias
+https://www.pricesmart.com/site/pa/es
+
+https://www.superxtra.com/?gad_source=1&gclid=EAIaIQobChMIqrza2dXlgwMV6p1aBR1CQg8-EAAYASAAEgI0KPD_BwE
+
+https://www.walmart.com/ 
+
+https://www.amazon.com/?&tag=googleglobalp-20&ref=pd_sl_7nnedyywlk_e&adgrpid=159651196451&hvpone=&hvptwo=&hvadid=675114638556&hvpos=&hvnetw=g&hvrand=5550744843641420427&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1011094&hvtargid=kwd-10573980&hydadcr=2246_13649807 
+
+https://us.shein.com/ 
+
+Estos sitios fueron elegidos como referencia ya que, nos parecieron interesantes y llamativos sus diseños, mas aún sus estilos e interfaces muy llamativas
